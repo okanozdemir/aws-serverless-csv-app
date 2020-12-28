@@ -1,2 +1,2 @@
 # aws-serverless-csv-app
-An AWS Lambda function which works as a CSV importer into AWS DynamoDB
+An AWS CDK project which works as a CSV importer into AWS DynamoDB via AWS Lambda functions 
