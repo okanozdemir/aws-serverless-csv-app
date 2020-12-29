@@ -20,4 +20,4 @@ This AWS CDK project is developed with TypeScript and you can find out how to me
 `cdk deploy` 
 
 ## Explanation of the tech stack for those wondering
-The main purpose of the project was to develop a lambda function that will work as a CSV importer into any data storage. I chose AWS DynamoDB as the data storage service because it is easy to integrate with other AWS products. In addition, AWS DynamoDB is a highly scalable managed service. I developed the Lambda function using the Python 3.8 because it was very practical for CSV parsing and I'm used to developing with it.
+The main purpose of the project was to develop a lambda function that will work as a CSV importer into any data storage. I chose AWS DynamoDB as the data storage service because it is easy to integrate with other AWS products. In addition, AWS DynamoDB is a highly scalable managed service. I developed the Lambda function using the Python 3.8 because it was very practical for CSV parsing and I'm used to developing with it. AWS CDK is way simpler to use than Cloudformation templates or Terraform.
